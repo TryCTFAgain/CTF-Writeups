@@ -1,5 +1,5 @@
+<a name="ldab"/>
 # Ldab
-<hr>
 
 Difficulty: **★☆☆☆☆**
 
@@ -17,8 +17,8 @@ Link: **http://web.chal.csaw.io:8080**
 2. Request `/index.php?search=*)(uid=*))(|(uid=*`
 3. Flag `flag{ld4p_inj3ction_i5_a_th1ng}`
 
+<a name="sso"/>
 # SSO
-<hr>
 
 Difficulty: **★★★☆☆**
 
